@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "387310711760",
+    "firebase_url": "https://kahitano-21b2d.firebaseio.com",
+    "project_id": "kahitano-21b2d",
+    "storage_bucket": "kahitano-21b2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387310711760:android:0ab3da0049199619",
+        "android_client_info": {
+          "package_name": "johnross.delacruz.com.kahitano"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387310711760-4isqplbtqj0ji46stl07q64erc9jde3a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "johnross.delacruz.com.kahitano",
+            "certificate_hash": "df7266c1006ff44ec0a8fb6e43d4273a656dc6c7"
+          }
+        },
+        {
+          "client_id": "387310711760-q1f0oururetg2ntgr4qscd31dccpd0k6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4rfadrgQw1YNfK1u6rv66q_-kuv7e6b4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387310711760-q1f0oururetg2ntgr4qscd31dccpd0k6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
